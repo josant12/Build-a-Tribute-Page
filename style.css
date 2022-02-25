@@ -1,0 +1,57 @@
+html{
+  background: #3b5998;
+}
+
+
+#title{
+   text-align: center;
+   font-size: 50px;
+  color: white;
+}
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #3b5998;
+}
+#image{ 
+    max-width: 50%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#img-div {
+  background-image: url("https://st3.depositphotos.com/5918238/18694/i/600/depositphotos_186942178-stock-photo-grunge-scratched-blue-background-illustration.jpg");
+  padding: 10px;
+  margin: 0;
+}
+#img-caption{
+  color: white;
+  text-align: center; 
+  margin: 15px 0 5px 0;
+}
+#headline{
+  color: white;
+  font-size: 45px;
+  text-align: center;
+}
+h3{
+  color: black;
+  font-size: 30px;
+  
+}
+ul {
+  max-width: 900px;
+  margin: 0 auto 70px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 25px 0;
+  font-size: 20px;
+    color: white ;  
+}
+a:visited {
+  color: Black;
+}
